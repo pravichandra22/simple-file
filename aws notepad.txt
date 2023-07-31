@@ -1,0 +1,35 @@
+user1
+demouser
+hyderabad@12345
+
+
+user2
+demouser2
+bangalore@123
+
+user 3
+newuseraws
+chennai@123
+
+
+User name
+
+awsdemouser2233
+billy@123
+
+
+<html>
+<body>  
+<h1> Welcome to clothing2 page </h1>
+</body>
+</html>
+
+
+
+
+
+
+
+
+AKIA4WJ4MVGMFLCCYAN5
+R6Rdqvgk+UM2/yoDViUXobA4EMIv29jOUBGUK9fP
